@@ -1,0 +1,9 @@
+package entities;
+
+public enum TipoIdentificacion {
+    CEDULA_CIUDADANIA,
+    TARJETA_IDENTIDAD,
+    REGISTRO_CIVIL,
+    CEUDLA_EXTRANJERIA,
+    PERMISO_PERMANENCIA_TRANSITORIO
+}
